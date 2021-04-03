@@ -39,7 +39,7 @@ p {
   margin: 0 0 33px;
 }
 
-a {
+.get-started {
   display: inline-block;
   font-family: "Mabry Pro", Arial, sans-serif;
   font-size: 27px;
@@ -231,8 +231,9 @@ span {
   position: relative;
     background: #ffd02d;
     border-radius: 4px;
-    padding: 49px 246px 46px 46px;
+    padding: 49px 46px 46px 46px;
     justify-content: space-between;
+    bottom: -60px;
 }
 .container8-1-1{
   font-weight: 500;
@@ -243,4 +244,39 @@ span {
     margin: 0 0 61px;
     z-index: 1;
     max-width: 780px;
+}
+.footer{
+background-color:  #000647;
+padding: 210px 0 133px;
+}
+.footer-1 {
+  display: flex;
+  flex-direction: row;
+
+}
+.footer-1-1{
+  width: 344px;
+  font-size: 15px;
+    line-height: 16px;
+    color: #7c80ad
+}
+.footer-1-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 20px;
+}
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  width: 180px;
+}
+.footer-text {
+  margin: 0 0 17px;
+  font-family: "Mabry Pro",Arial,sans-serif;
+    font-size: 16px;
+    line-height: 16px;
+    color: #7c80ad;
+    text-decoration: none;
 }
