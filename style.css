@@ -280,3 +280,38 @@ padding: 210px 0 133px;
     color: #7c80ad;
     text-decoration: none;
 }
+.nav {
+  padding-top: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.nav-bar-1 {
+  color: #fff;
+  margin: 0 33px 0 0;
+  font-family: "Mabry Pro",Arial,sans-serif;
+    font-size: 17px;
+}
+.nav-bar-btn {
+
+font-size: 19px;
+color: #060e60;
+position: relative;
+text-align: center;
+padding: 9px 24px 8px;
+background: #f6c8f1;
+border-radius: 3px;
+text-decoration: none;
+bottom: 7px;
+}
+.logo {
+  color: #fff;
+  font-size: 23px;
+position: relative;
+bottom: 6px;
+}
