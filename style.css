@@ -28,7 +28,7 @@ flex-wrap: wrap-reverse;
   flex-direction: column;
 }
 
-.block-a {
+h1 {
   font-size: 83px;
   line-height: 79px;
   color: #fff;
@@ -46,8 +46,6 @@ p {
  max-width: 568px;
   margin: 0 0 33px;
 }
-
-
 .block-a {
     text-align: center;
 }
